@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ayomideajayi@gmail.com
+- 📫 How to reach me ...ayomideajayi21@gmail.com
 
 <!---
 DevDave21/DevDave21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
